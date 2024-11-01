@@ -1,0 +1,21 @@
+<script setup>
+</script>
+
+<template>
+  <div class="index">
+    <router-view></router-view>
+  </div>
+</template>
+
+<style scoped>
+.index{
+  width: 100%;
+  height: 100%;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.vue:hover {
+  filter: drop-shadow(0 0 2em #42b883aa);
+}
+</style>

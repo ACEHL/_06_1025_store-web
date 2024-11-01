@@ -1,0 +1,28 @@
+{
+  "name": "06-1025-store-web",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.3.1",
+    "animate.css": "^4.1.1",
+    "axios": "^1.7.7",
+    "element-plus": "^2.8.6",
+    "path": "^0.12.7",
+    "pinia": "^2.2.4",
+    "sass": "^1.80.4",
+    "vue": "^3.5.12",
+    "vue-axios": "^3.5.2",
+    "vue-router": "^4.4.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "vite": "^5.1.4"
+  },
+  "packageManager": "yarn@4.5.1"
+}
